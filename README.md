@@ -14,4 +14,7 @@ To perform only inference, create a folder containing the files and folders list
 
 ![Inference](./Instruction1.png)
 
-**It’s important to note that all input RGB images must be sized 256×256.**
+# Remarks
+
+* All input RGB images must be sized 256×256.
+* Feel free to contact me if you have any suggestions or feedback!
